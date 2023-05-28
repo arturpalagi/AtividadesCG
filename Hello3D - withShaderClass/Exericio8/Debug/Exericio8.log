@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+H:\Artur\facul\Computação Gráfica\COLA\AtividadesCG-main-Gustavo\AtividadesCG-main\Hello3D - withShaderClass\Exericio8\Origem.cpp(200,21): warning C4305: '+=': truncation from 'double' to 'float'
+H:\Artur\facul\Computação Gráfica\COLA\AtividadesCG-main-Gustavo\AtividadesCG-main\Hello3D - withShaderClass\Exericio8\Origem.cpp(240,21): warning C4305: '+=': truncation from 'double' to 'float'
+H:\Artur\facul\Computação Gráfica\COLA\AtividadesCG-main-Gustavo\AtividadesCG-main\Hello3D - withShaderClass\Exericio8\Origem.cpp(245,21): warning C4305: '-=': truncation from 'double' to 'float'
+  Exericio8.vcxproj -> H:\Artur\facul\Computação Gráfica\COLA\AtividadesCG-main-Gustavo\AtividadesCG-main\Hello3D - withShaderClass\Debug\Hello3D.exe
