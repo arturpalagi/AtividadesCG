@@ -1,5 +1,0 @@
-﻿  Origem.cpp
-G:\Artur\facul\Computação Gráfica\COLA\AtividadesCG-main\AtividadesCG-main\m2-atividade-vivencial\Hello3D\Exericio8\Origem.cpp(221,21): warning C4305: '+=': truncamento de 'double' para 'float'
-G:\Artur\facul\Computação Gráfica\COLA\AtividadesCG-main\AtividadesCG-main\m2-atividade-vivencial\Hello3D\Exericio8\Origem.cpp(226,21): warning C4305: '-=': truncamento de 'double' para 'float'
-G:\Artur\facul\Computação Gráfica\COLA\AtividadesCG-main\AtividadesCG-main\m2-atividade-vivencial\Hello3D\Exericio8\Origem.cpp(234,21): warning C4305: '+=': truncamento de 'double' para 'float'
-  Exericio8.vcxproj -> G:\Artur\facul\Computação Gráfica\COLA\AtividadesCG-main\AtividadesCG-main\m2-atividade-vivencial\Hello3D\Debug\Main.exe
